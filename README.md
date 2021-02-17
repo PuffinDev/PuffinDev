@@ -1,5 +1,5 @@
 ### Welcome to py github page!
 
-<img src="giphy.gif" width="90" height="70" />
+<img src="giphy.gif" width="200" height="160" />
 
 ✨| Currently working on: **PyChat**
