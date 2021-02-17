@@ -1,4 +1,3 @@
 ### Welcome to py github page!
-
 ✨| Suggested repo: **PyChat**
-![puffin](giphy.gif)
+<img src="giphy.gif" width="20" height="20" />
