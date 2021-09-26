@@ -6,5 +6,7 @@ Hello, I am a human. I do coding. And yeah. Thats about it.
 
 <img src="giphy.gif" width="250" height="160" />
 
-✨| Currently working on: [**PuffinCoin**](https://github.com/puffindev/PuffinCoin)
+✨| Currently working on: [**ZirCoin**](https://github.com/puffindev/ZirCoinOrg)
 <!--
+
+<a href="https://www.patreon.com/bePatron?u=62209003" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
