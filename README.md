@@ -7,5 +7,5 @@ Hello, I am a human. I do coding. And yeah. Thats about it.
 
 <img src="giphy.gif" width="250" height="160" />
 
-✨| Currently working on: [**ZirCoin**](https://github.com/puffindev/ZirCoinOrg)
+✨| Currently working on: [**ZirCoin**](https://github.com/ZirCoinOrg)
 <!--
