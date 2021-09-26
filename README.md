@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puffindev&show_icons=true&locale=en" alt="puffindev" /></p>
 
 -----
+<a href="https://www.patreon.com/bePatron?u=62209003" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
