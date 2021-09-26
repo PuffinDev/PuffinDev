@@ -11,13 +11,12 @@
 ---
 
 ### Youtube - Latest Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t244xplo5xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=t244xplo5xc
 ---
 
 ### Projects
 
-<!-- BLOG-POST-LIST:START -->
+<!-- PROJECTS-LIST:START -->
 - [ZirCoin](https://github.com/ZircoinOrg)
 - [PyChat](https://github.com/PuffinDev/PyChat)
 - [Hacker Tools](https://github.com/PuffinDev/Arch-Linux-Hacker-Tools)
@@ -25,8 +24,7 @@
 - [PixelRooms](https://github.com/PuffinDev/PixelRooms)
 - [PuffinCoin](https://github.com/PuffinDev/PuffinCoin) (migrated to ZirCoin)
 - [PyChat](https://github.com/PuffinDev/PyChat) (discontinued)
-
-<!-- BLOG-POST-LIST:END -->
+<!-- PROJECTS-LIST:END -->
 
 <p align="left">
 <h3 align="left">Socials:</h3>
