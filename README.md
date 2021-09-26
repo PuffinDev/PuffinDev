@@ -10,10 +10,6 @@
 
 ---
 
-### Youtube - Latest Video
-https://www.youtube.com/watch?v=t244xplo5xc
----
-
 ### Projects
 
 <!-- PROJECTS-LIST:START -->
