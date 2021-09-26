@@ -9,4 +9,5 @@ Hello, I am a human. I do coding. And yeah. Thats about it.
 ✨| Currently working on: [**ZirCoin**](https://github.com/puffindev/ZirCoinOrg)
 <!--
 
-<a href="https://www.patreon.com/bePatron?u=62209003" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+<a href="https://www.patreon.com/bePatron?u=62209003" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
