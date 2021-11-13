@@ -13,7 +13,7 @@
 ### Projects
 
 <!-- PROJECTS-LIST:START -->
-- [ZirCoin](https://github.com/ZircoinOrg)
+- [ZirCoin](https://github.com/ZircoinDevs)
 - [Hacker Tools](https://github.com/PuffinDev/Arch-Linux-Hacker-Tools)
 - [Easy ID3](https://github.com/PuffinDev/Easy-ID3)
 - [PixelRooms](https://github.com/PuffinDev/PixelRooms)
