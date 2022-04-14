@@ -15,10 +15,10 @@
 
 <!-- PROJECTS-LIST:START -->
 - [ZirCoin](https://github.com/ZircoinDevs)
+- [PyChat](https://github.com/PuffinDev/PyChat4)
 - [Hacker Tools](https://github.com/PuffinDev/Arch-Linux-Hacker-Tools)
 - [Easy ID3](https://github.com/PuffinDev/Easy-ID3)
 - [PixelRooms](https://github.com/PuffinDev/PixelRooms)
-- [PyChat](https://github.com/PuffinDev/PyChat) (discontinued)
 <!-- PROJECTS-LIST:END -->
 
 <p align="left">
