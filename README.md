@@ -6,6 +6,7 @@
 
 - 💰 I am currently making a full cryptocurrency in python - [ZirCoin](https://github.com/ZircoinOrg)
 - 📚 I'm learning Rust, and I am planning on making a rust implementation of zircoin.
+- 📱 I am also learning flutter and dart.
 - 🖥️ I have spent the last 6 months researching blockchain technology
 
 ---
