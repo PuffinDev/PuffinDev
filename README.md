@@ -4,6 +4,8 @@
 </br>
 <img align="right" alt="GIF" height="160px" src="https://avatars.githubusercontent.com/u/62402318?v=4" />
 
+![](https://komarev.com/ghpvc/?username=PuffinDev)
+
 - 💰 I am currently making a full cryptocurrency in python - [ZirCoin](https://github.com/ZircoinDevs)
 - 📚 I'm learning Rust, and I am planning on making a rust implementation of zircoin.
 - 📱 I am also learning flutter and dart.
